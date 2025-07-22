@@ -36,3 +36,8 @@ The following key techniques are used:
 
 link=https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
+## Output:
+![Alt Text]("C:\Users\admin\Downloads\app code.jpg")
+
+
+
